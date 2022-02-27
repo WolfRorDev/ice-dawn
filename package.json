@@ -1,0 +1,45 @@
+{
+    "name": "ice-dawn",
+    "displayName": "ice-dawn",
+    "description": "Ice Dawn theme for VS Code",
+    "version": "1.0.0",
+    "publisher": "WolfRor",
+    "author":"Dominik Krzywański <support@wolfror.iwhy.me> (http://wolfror.iwhy.me)",
+    "license": "MIT",
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ice Dawn",
+                "uiTheme": "vs",
+                "path": "./themes/Ice Dawn-color-theme.json"
+            }
+        ]
+    },
+    
+    "bugs": {
+        "url": "https://github.com/WolfRorDev/ice-dawn/issues"
+    },
+    "homepage": "https://github.com/WolfRorDev/ice-dawn/blob/master/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/WolfRorDev/ice-dawn.git"
+    },
+    "keywords": [
+        "Vscode",
+        "Theme",
+        "Ice",
+        "Dawn"
+    ],
+    "__metadata": {
+        "id": "",
+        "publisherDisplayName": "WolfRor",
+        "publisherId": ""
+    }
+}
