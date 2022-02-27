@@ -4,36 +4,24 @@
 	"colors": {
 		"editor.background": "#f5f5f5",
 		"editor.foreground": "#333333",
-        // "list.activeSelectionIconForeground": "#fff"
-
-		// "editor.background": "#51d6ff",
-		// "editor.foreground": "#000",
 		"sideBarTitle.foreground": "#000",
 		"sideBar.background": "#51d6ff",
 		"sideBar.border": "#00556e",
 		"sideBar.foreground": "#000",
 		"sideBarSectionHeader.background": "#8fe5ff",
-
 		"activityBar.background": "#16b4e4",
 		"activityBar.foreground": "#000",
 		"activityBar.border": "#00556e",
-		
 		"button.background": "#16b4e4",
-		
 		"titleBar.activeBackground": "#16b4e4",
 		"titleBar.border": "#00556e",
-		"titleBar.activeForeground": "#fff",//Góra
-		
+		"titleBar.activeForeground": "#fff",
 		"editorSuggestWidget.background": "#51d6ff",
-		
 		"menu.background": "#16b4e4",
 		"menu.foreground": "#fff",
 		"menu.border": "#00556e",
 		"menu.selectionBackground": "#00556e",
-		
-		"minimap.background": "#c0c0c0",
-		// "editorInfo.background": "#ff0000",
-		
+		"minimap.background": "#c0c0c0",		
 		"statusBar.background": "#16b4e4",
 		"statusBar.noFolderBackground": "#16b4e4",
 		"statusBar.debuggingBackground": "#16b4e4",
@@ -42,10 +30,7 @@
 		"tab.inactiveForeground": "#000",
 		"tab.activeBackground": "#fff",
 		"tab.activeForeground": "#000",
-
-		"editorGroupHeader.tabsBackground": "#8fe5ff", //585858
-		// "editorPane.background": "#ff0000"
-
+		"editorGroupHeader.tabsBackground": "#8fe5ff"
 	},
 	"tokenColors": [
 		{
